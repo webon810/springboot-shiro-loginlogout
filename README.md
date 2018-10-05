@@ -21,4 +21,4 @@ localhost:8888/logout
 localhost:8888/secure
 
 ## Issue
-May has issue, but just for coding demo purpose for now
+Spring-boot may be to run, but page may has issue to display, just for coding demo purpose for now
